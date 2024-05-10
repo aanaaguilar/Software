@@ -19,8 +19,8 @@ Este proyecto fue desarrollado como parte del curso de Diseño de Software, enfo
 - **Recomendaciones Personalizadas**: Algoritmo de recomendaciones basado en interacciones y preferencias del usuario.
 
 ##### Tecnologías Utilizadas
-- Python
-- Kivy
+- **Kivy**: Framework para el desarrollo de aplicaciones.
+- **Python**: Lenguaje de programación utilizado.
 
 __
 __
